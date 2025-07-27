@@ -42,5 +42,5 @@ This project uses the **Hack platform** from the [Nand2Tetris](https://www.nand2
 
 - All `.hack` files are written for use with the **Hack CPU simulator**.
 - Each algorithm is built respecting the memory layout and syntax constraints of the Hack machine.
-
+- Visualizing codes are in the .asm format.
 ---
